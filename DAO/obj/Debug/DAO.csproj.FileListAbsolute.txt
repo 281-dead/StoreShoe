@@ -1,0 +1,13 @@
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\bin\Debug\DAO.dll.config
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\bin\Debug\DAO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\bin\Debug\DAO.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\bin\Debug\DTO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\bin\Debug\DTO.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\bin\Debug\DTO.dll.config
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.Properties.Resources.resources
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\DAO\obj\Debug\DAO.pdb

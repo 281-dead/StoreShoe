@@ -1,0 +1,9 @@
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\bin\Debug\DTO.dll.config
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\bin\Debug\DTO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\bin\Debug\DTO.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\obj\Debug\DTO.Properties.Resources.resources
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\obj\Debug\DTO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\obj\Debug\DTO.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\DATA\obj\Debug\DTO.csproj.AssemblyReference.cache

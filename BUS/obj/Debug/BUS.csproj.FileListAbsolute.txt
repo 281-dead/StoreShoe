@@ -1,0 +1,16 @@
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\BUS.dll.config
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\BUS.dll
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\BUS.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\DAO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\DTO.dll
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\DAO.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\DAO.dll.config
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\DTO.pdb
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\bin\Debug\DTO.dll.config
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.dll
+D:\Đồ án\110_204_QuanLyBanGiay\BUS\obj\Debug\BUS.pdb
